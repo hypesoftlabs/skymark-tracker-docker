@@ -1,0 +1,9 @@
+[submodule "skymark-tracker-api"]
+	path = skymark-tracker-api
+	url = https://github.com/hypesoftlabs/skymark-tracker-api.git
+[submodule "skymark-tracker-web"]
+	path = skymark-tracker-web
+	url = https://github.com/hypesoftlabs/skymark-tracker-web.git
+[submodule "skymark-tracker-mobile"]
+	path = skymark-tracker-mobile
+	url = https://github.com/hypesoftlabs/skymark-tracker-mobile.git
